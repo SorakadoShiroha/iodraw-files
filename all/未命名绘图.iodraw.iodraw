@@ -11,7 +11,7 @@
           <mxGeometry x="20" y="230" width="240" height="250" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-1" value="france_en,france_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="580" y="360" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-2" value="france_en" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="240" width="120" height="80" as="geometry" />
@@ -23,16 +23,16 @@
           <mxGeometry x="10" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-5" value="paris_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="460" width="120" height="80" as="geometry" />
+          <mxGeometry x="290" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-6" value="paris_fn,paris_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="610" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-7" value="lyon_en" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-8" value="lyon_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="420" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-9" value="lyon_en,lyon_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="545" width="120" height="80" as="geometry" />
