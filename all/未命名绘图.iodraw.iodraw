@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0QC-_zQH5IRCZWsr2Spu-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="240" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="230" width="240" height="250" as="geometry" />
         </mxCell>
@@ -14,13 +17,13 @@
           <mxGeometry x="70" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-3" value="france_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-4" value="paris_en" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-5" value="paris_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="690" y="460" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-6" value="paris_fn,paris_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="120" height="80" as="geometry" />
