@@ -17,16 +17,16 @@
           <mxGeometry x="530" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-4" value="paris_en" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-5" value="paris_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="420" width="120" height="80" as="geometry" />
+          <mxGeometry x="310" y="400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-6" value="paris_fn,paris_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-7" value="lyon_en" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-8" value="lyon_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="550" width="120" height="80" as="geometry" />
