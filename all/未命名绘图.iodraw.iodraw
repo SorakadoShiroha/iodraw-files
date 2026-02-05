@@ -19,8 +19,11 @@
         <mxCell id="0QC-_zQH5IRCZWsr2Spu-5" value="paris_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0QC-_zQH5IRCZWsr2Spu-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0QC-_zQH5IRCZWsr2Spu-6" value="paris_fn,paris_fr" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0QC-_zQH5IRCZWsr2Spu-7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="540" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
